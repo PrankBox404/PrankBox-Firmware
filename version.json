@@ -1,5 +1,5 @@
 {
   "version": "0.6.6",
-  "bin_url": "https://github.com/PrankBox404/PrankBox-Firmware/releases/download/v0.6.6/PrankBox_C3telegramtesteok.ino.bin",
+  "bin_url": "https://raw.githubusercontent.com/PrankBox404/PrankBox-Firmware/main/firmware/PrankBox_C3telegramtesteok.ino.bin",
   "notes": "Initial OTA-ready release"
 }
